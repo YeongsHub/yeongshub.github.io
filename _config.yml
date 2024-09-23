@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Yeong.Wi"
-  avatar           : "/assets/images/yeong.png"
+  avatar           : "/assets/yeong.png"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
